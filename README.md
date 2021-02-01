@@ -11,4 +11,4 @@ git config --global core.editor vim
 </a>
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=simojo.simojo&title=>)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=simojo.simojo&title=%3Aeyes%3A)
